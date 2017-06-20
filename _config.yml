@@ -1,1 +1,39 @@
-theme: jekyll-theme-cayman
+# Site settings
+title:       XueLei 的个人博客
+email:       xuelei@boxfish.cn
+author:      Xue Lei
+description: "Be the change you want to see in the world"
+baseurl:     ""
+url:         "http://github.top"
+#Duoshuo short Name / 多说的shortname
+duoshuo:      githubtop
+
+#Baidu analytics / 百度统计(异步的js码，注意使用异步版本的)
+baidu_analyze: 2604b03f313a80b414d9705f95480b88
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           true
+show_related_posts: true
+show_post_footers:  false
+
+# Social icons
+show_social_icons: true
+github_username:  xueleitt
+twitter_username:
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+gems: [jekyll-paginate]
+markdown:     kramdown
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
+
