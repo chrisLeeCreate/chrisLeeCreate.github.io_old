@@ -4,7 +4,7 @@ Light and beautiful blog style template for jekyll
 ![preview](http://i.imgur.com/UzW9sxd.jpg)
 
 ## Demo
-Find a demo [here](https://chrisleecreate.github.io)
+look my demo [here](https://chrisleecreate.github.io)
 
 ## Contributing
 
