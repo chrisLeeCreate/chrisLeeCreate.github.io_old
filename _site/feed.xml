@@ -3,10 +3,10 @@
   <channel>
     <title>lishaowei</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>chrisLeeCreate.github.io/</link>
-    <atom:link href="chrisLeeCreate.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Jun 2017 11:17:52 +0800</pubDate>
-    <lastBuildDate>Wed, 21 Jun 2017 11:17:52 +0800</lastBuildDate>
+    <link>chrisLeeCreate.github.io./</link>
+    <atom:link href="chrisLeeCreate.github.io./feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 21 Jun 2017 11:20:16 +0800</pubDate>
+    <lastBuildDate>Wed, 21 Jun 2017 11:20:16 +0800</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Tue, 19 Jul 2016 17:49:45 +0800</pubDate>
-        <link>chrisLeeCreate.github.io/jekyll/update/2016/07/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">chrisLeeCreate.github.io/jekyll/update/2016/07/19/welcome-to-jekyll.html</guid>
+        <link>chrisLeeCreate.github.io./jekyll/update/2016/07/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">chrisLeeCreate.github.io./jekyll/update/2016/07/19/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -55,8 +55,8 @@
 
 </description>
         <pubDate>Tue, 19 Jul 2016 17:49:45 +0800</pubDate>
-        <link>chrisLeeCreate.github.io/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
-        <guid isPermaLink="true">chrisLeeCreate.github.io/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
+        <link>chrisLeeCreate.github.io./jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
+        <guid isPermaLink="true">chrisLeeCreate.github.io./jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
         
         
         <category>jekyll</category>
@@ -83,8 +83,8 @@
 
 </description>
         <pubDate>Tue, 19 Jul 2016 17:49:45 +0800</pubDate>
-        <link>chrisLeeCreate.github.io/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
-        <guid isPermaLink="true">chrisLeeCreate.github.io/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
+        <link>chrisLeeCreate.github.io./jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
+        <guid isPermaLink="true">chrisLeeCreate.github.io./jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
         
         
         <category>jekyll</category>
@@ -111,8 +111,8 @@
 
 </description>
         <pubDate>Tue, 19 Jul 2016 17:49:45 +0800</pubDate>
-        <link>chrisLeeCreate.github.io/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
-        <guid isPermaLink="true">chrisLeeCreate.github.io/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
+        <link>chrisLeeCreate.github.io./jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
+        <guid isPermaLink="true">chrisLeeCreate.github.io./jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
         
         
         <category>jekyll</category>
@@ -139,8 +139,8 @@
 
 </description>
         <pubDate>Tue, 19 Jul 2016 17:49:45 +0800</pubDate>
-        <link>chrisLeeCreate.github.io/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
-        <guid isPermaLink="true">chrisLeeCreate.github.io/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
+        <link>chrisLeeCreate.github.io./jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
+        <guid isPermaLink="true">chrisLeeCreate.github.io./jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
         
         
         <category>jekyll</category>
